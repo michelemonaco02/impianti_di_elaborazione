@@ -26,7 +26,7 @@ Z_ALPHA_2 = 1.96
 ERROR_LEVELS = [0.10, 0.05]
 
 # Cambia questo nome se il tuo file CSV ha un nome diverso
-INPUT_FILE = "misure_PC1.csv"
+INPUT_FILE = "misure_PC2.csv"
 
 df = pd.read_csv(INPUT_FILE)
 
