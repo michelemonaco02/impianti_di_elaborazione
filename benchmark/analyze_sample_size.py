@@ -97,10 +97,3 @@ print("==========================================\n")
 
 print(compact.to_string(index=False))
 
-# Salvataggi
-summary.to_csv(f"dimensione_campionaria_dettaglio_{pc_name}.csv", index=False)
-compact.to_csv(f"dimensione_campionaria_tabella_{pc_name}.csv", index=False)
-
-print("\nFile generati:")
-print(f"- dimensione_campionaria_dettaglio_{pc_name}.csv")
-print(f"- dimensione_campionaria_tabella_{pc_name}.csv")
