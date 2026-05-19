@@ -1,0 +1,2 @@
+Configurazione,Test,Statistica,p-value,Alpha,Decisione,Conclusione,Test successivo,N PC1,N PC2
+10000,Levene,2.426141763934244,0.12476657226057664,0.05,Non rigetto H0,Varianze compatibili,Two-sample t-test pooled,30,30
